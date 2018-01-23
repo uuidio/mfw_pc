@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/mfw_pc',
+    assetsPublicPath: '/mfw_pcshow',
 
     /**
      * Source Maps
